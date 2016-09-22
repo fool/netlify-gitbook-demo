@@ -10,5 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "gitbook-cli": "^2.3.0"
+    "npm": "^2"
   }
 }
