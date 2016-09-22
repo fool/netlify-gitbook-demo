@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gitbook-cli": "^2.3.0"
+    "gitbook-cli": "^2.3.0",
     "npm": "^2"
   }
 }
